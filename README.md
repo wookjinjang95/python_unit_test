@@ -12,7 +12,7 @@
 
 3. Set up your unit test suite on github and travis CI.
 
-    \\Done in the travis CI.
+    Done in the travis CI.
 
 
 # Files
