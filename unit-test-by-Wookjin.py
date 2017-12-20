@@ -1,3 +1,6 @@
+#made by Wookjin Jang
+#Edited: 12/19/2017
+
 from sample_account import Customer
 import unittest
 
@@ -36,6 +39,7 @@ class MyTest(unittest.TestCase):
         with self.assertRaises(Exception) as content:
             Customer.withdraw(sample, 1.00)
 
+        #it has to be same display as the given error in sample_account.py
         self.assertTrue('Amount greater than available balance.' in content.exception)
 
     #test the deposit function.
