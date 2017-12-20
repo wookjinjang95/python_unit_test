@@ -17,6 +17,8 @@
 
 # Files
 
-sample_acocunt.py: given python file that sets the account for the customer
+sample_acocunt.py: 
+    given python file that sets the account for the customer
 
-unit-test-by-Wookjin.py: unit test for the sample_account.py
+unit-test-by-Wookjin.py: 
+    unit test for the sample_account.py
