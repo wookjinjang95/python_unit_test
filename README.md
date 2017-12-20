@@ -13,3 +13,10 @@
 3. Set up your unit test suite on github and travis CI.
 
     \\Done in the travis CI.
+
+
+# Files
+
+sample_acocunt.py: given python file that sets the account for the customer
+
+unit-test-by-Wookjin.py: unit test for the sample_account.py
